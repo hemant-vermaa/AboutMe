@@ -11,25 +11,25 @@
   </p>
 
   <h3>🌐Skills</h3>
-  <p>
-    <b>Languages⚡</b>: Core Java, Python, JavaScript, C & C++, HTML, JavaScript, SQL, Cascading Style Sheets (CSS), Spring Framework
-    <b>Specialties⚡</b>: Software Development, Data Structures and Analytics, Software Development Life Cycle (SDLC), Cybersecurity,
+  <ul>
+    <li><b>Languages⚡</b>: Core Java, Python, JavaScript, C & C++, HTML, JavaScript, SQL, Cascading Style Sheets (CSS), Spring Framework</li>
+    <li><b>Specialties⚡</b>: Software Development, Data Structures and Analytics, Software Development Life Cycle (SDLC), Cybersecurity,
       Artificial Intelligence (AI), Java Database Connectivity (JDBC), JSON, Databases, Computer Science, Algorithms, AJAX, MySQL,
-      Machine Learning, SpringBoot, SpringFramework, TensorFlow, NumPy, PyTorch
-    <b>Interests⚡</b>: System Security, SOftwares, Android, Machine Learning
-   </p>
+      Machine Learning, SpringBoot, SpringFramework, TensorFlow, NumPy, PyTorch</li>
+    <li><b>Interests⚡</b>: System Security</li>
+  </ul>
 
   <h3>What I Bring to the Table</h3>
-  <p>
-    <b>Passion for Technology⚡</b>: I love what I do, and I'm always eager to stay on top of the latest trends and advancements
-      in the tech world.
-    <b>Problem-Solving Enthusiast⚡</b>: Equipped with a strong foundation in Data Structures and Algorithms, I enjoy tackling
-      complex problems head-on.
-    <b>Versatile Coding Skills⚡</b>: Proficient in Core Java, Python, JavaScript, and C++, I bring a versatile set of programming
-      languages to the table.
-    <b>Security-Minded⚡</b>: With a keen interest in System Security, I understand the importance of developing secure and
-      robust software.
-   </p>
+  <ul>
+    <li><b>Passion for Technology⚡</b>: I love what I do, and I'm always eager to stay on top of the latest trends and advancements
+      in the tech world.</li>
+    <li><b>Problem-Solving Enthusiast⚡</b>: Equipped with a strong foundation in Data Structures and Algorithms, I enjoy tackling
+      complex problems head-on.</li>
+    <li><b>Versatile Coding Skills⚡</b>: Proficient in Core Java, Python, JavaScript, and C++, I bring a versatile set of programming
+      languages to the table.</li>
+    <li><b>Security-Minded⚡</b>: With a keen interest in System Security, I understand the importance of developing secure and
+      robust software.</li>
+  </ul>
 
   <h3>What I'm Looking For</h3>
   <p>
